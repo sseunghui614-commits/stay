@@ -1,4 +1,4 @@
-import { supabase } from "./supabaseClient";
+import  supabase  from "./supabaseClient";
 
 /**
  * ✅ 현황판 전체 조회 (APT + STORE 한 번에)
