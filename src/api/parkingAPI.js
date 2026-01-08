@@ -1,4 +1,3 @@
-// supabaseClient 불러와서 연결해서 사용
 import { supabase } from "./supabaseClient";
 
 /**
