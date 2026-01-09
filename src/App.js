@@ -12,9 +12,10 @@ import OkPage from "./pages/OkPage";
 import BoardPage from "./pages/BoardPage";
 import SalePage from "./pages/SalePage";
 import "./assets/scss/global.scss";
-import ParkingGird from "./components/ParkingGird";
+// import ParkingGird from "./components/ParkingGird";
 import Visited from "./pages/Visited";
 import ControlPage from './pages/ControlPage'
+import AppProvider from "./contexts/AppProvider";
 
 const TempButtons = () => {
     const navigate = useNavigate();
